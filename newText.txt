@@ -1,3 +1,3 @@
 This is a test text.
 
-An test update.
+A test update from new barnch 2.
